@@ -3,7 +3,7 @@ This procedure has been adopted from the Ada Initiative's guide titled "[Confere
 -------------------------------------------------------------------------------------------------
 Be sure to have a good understanding of our Code of Conduct policy, which can be found here: [https://us.pycon.org/2013/about/code-of-conduct/](https://us.pycon.org/2013/about/code-of-conduct/)
 
-Also have a good understanding of what is expected from an attendee that wants to report a harassment incident. These guidelines can be found here: [/2013/about/code-of-conduct/harassment-incidents/](/2013/about/code-of-conduct/harassment-incidents/)
+Also have a good understanding of what is expected from an attendee that wants to report a harassment incident. These guidelines can be found here: [Pycon code of conduct and harassment-incidents](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/)
 
 Try to get as much of the incident in written form by the reporter. If you cannot, transcribe it yourself as it was told to you. The important information to gather include the following:
 
@@ -62,4 +62,4 @@ Depending on the incident, the conference chair, or designate, may decide to mak
 
 If some attendees were angered by the incident, it is best to apologize to them that the incident occurred to begin with.  If there are residual hard feelings, suggest to them to write an email to the conference chair or to the event coordinator. It will be dealt with accordingly.
 
-A listing of [PyCon staff is located here](/2013/about/staff/), including contact phone numbers. If at all possible, all reports should be made directly to [Ewa Jodlowska](mailto:ewa@python.org) (Event Coordinator) or [Jesse Noller](mailto:jnoller@python.org) (PyCon Chair).
+A listing of [PyCaribbean staff will be located here](http://pycaribbean.com/staff/), including contact phone numbers. If at all possible, all reports should be made directly to [Vivian Guillen](mailto:vivian@pycaribbean.com) (Co-Organizer) or [Leonardo Jimenez](mailto:leonardo@pycaribbean.com) (Co-Organizer).
