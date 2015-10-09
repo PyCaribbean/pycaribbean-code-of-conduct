@@ -34,5 +34,4 @@ the offenders, and the community at large, to grow, learn, and become better. Py
 that they be your first resource when reporting a PyCaribbean-related incident, so that they may enforce
 the Code of Conduct and take quick action toward a resolution.
 
-A listing of [PyCaribbean staff is located here](/2013/about/staff/), including contact phone numbers.
 If at all possible, all reports should be made directly to [Leonardo Jimenez](mailto:leonardo@pycaribbean.com) (Co-Organizer) or [Vivian Guillen](mailto:vivian@pycaribbean.com) (Co-Organizer).
